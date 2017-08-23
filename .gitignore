@@ -1,0 +1,22 @@
+# compiled
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+## IDE
+*.ipr
+*.iws
+*.iml
+*.project
+.metadata
+
+.idea/
+.settings/
+out/
+bin/
+
+# Maven
+target/
